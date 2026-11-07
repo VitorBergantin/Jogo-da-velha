@@ -4,7 +4,7 @@
 - Ra: 25006595
 
 ## Instruções de compilação e execução:
-Não é necessário nada demais para que o projeto funcione, apenas colocar todos os arquivos dentro de uma pasta comum, que na versão original (esta) é a pasta src, dentro de uma pasta pai, que aqui é a pasta Velha.  
+Não é necessário nada demais para que o projeto funcione, apenas colocar todos os arquivos dentro de uma pasta comum, que na versão original (esta) é a pasta src, dentro de uma pasta pai, que aqui é a pasta Velha. Depois, coloque todos os arquivos que começam com jogador dentro de uma pasta jogador, assim já deve ser possível utilizar o programa.  
 
 Embora seja estranho ter uma pasta aninhada na outra, o Java não conseguiu reconhecer que jogador estava na mesma pasta que o Tabuleiro e afins, por isso o intermediário src.
 
